@@ -1,0 +1,452 @@
+[
+  {
+    "id": 11,
+    "kata": "Bola",
+    "petunjuk": "Bulat, digunakan dalam olahraga seperti sepak bola dan basket."
+  },
+  {
+    "id": 12,
+    "kata": "Meja",
+    "petunjuk": "Tempat untuk menulis atau meletakkan barang."
+  },
+  {
+    "id": 13,
+    "kata": "Kursi",
+    "petunjuk": "Digunakan untuk duduk, biasanya ada di ruang tamu."
+  },
+  {
+    "id": 14,
+    "kata": "Air",
+    "petunjuk": "Tidak berwarna, diperlukan untuk minum dan mandi."
+  },
+  {
+    "id": 15,
+    "kata": "Hujan",
+    "petunjuk": "Air yang turun dari langit, biasanya diiringi mendung."
+  },
+  {
+    "id": 16,
+    "kata": "Telepon",
+    "petunjuk": "Digunakan untuk berkomunikasi jarak jauh."
+  },
+  {
+    "id": 17,
+    "kata": "Radio",
+    "petunjuk": "Sumber informasi dan musik, menggunakan gelombang udara."
+  },
+  {
+    "id": 18,
+    "kata": "Payung",
+    "petunjuk": "Melindungi dari hujan dan panas matahari."
+  },
+  {
+    "id": 19,
+    "kata": "Cermin",
+    "petunjuk": "Memantulkan bayangan, digunakan untuk bercermin."
+  },
+  {
+    "id": 20,
+    "kata": "Motor",
+    "petunjuk": "Kendaraan roda dua yang menggunakan bahan bakar."
+  },
+  {
+    "id": 21,
+    "kata": "Komputer",
+    "petunjuk": "Alat elektronik untuk bekerja dan bermain game."
+  },
+  {
+    "id": 22,
+    "kata": "Lilin",
+    "petunjuk": "Memberikan cahaya, biasanya digunakan saat mati lampu."
+  },
+  {
+    "id": 23,
+    "kata": "Roti",
+    "petunjuk": "Makanan berbahan dasar tepung, sering dimakan untuk sarapan."
+  },
+  {
+    "id": 24,
+    "kata": "Ikan",
+    "petunjuk": "Hidup di air, sering dijadikan lauk."
+  },
+  {
+    "id": 25,
+    "kata": "Burung",
+    "petunjuk": "Memiliki sayap, bisa terbang di langit."
+  },
+  {
+    "id": 26,
+    "kata": "Mobil",
+    "petunjuk": "Kendaraan roda empat, digunakan untuk perjalanan jauh."
+  },
+  {
+    "id": 27,
+    "kata": "Jembatan",
+    "petunjuk": "Menghubungkan dua tempat yang terpisah."
+  },
+  {
+    "id": 28,
+    "kata": "Tas",
+    "petunjuk": "Digunakan untuk membawa barang-barang kecil."
+  },
+  {
+    "id": 29,
+    "kata": "Piring",
+    "petunjuk": "Digunakan untuk menyajikan makanan."
+  },
+  {
+    "id": 30,
+    "kata": "Pisau",
+    "petunjuk": "Alat tajam untuk memotong makanan."
+  },
+  {
+    "id": 31,
+    "kata": "Jam Tangan",
+    "petunjuk": "Dikenakan di pergelangan tangan, menunjukkan waktu."
+  },
+  {
+    "id": 32,
+    "kata": "Sapu",
+    "petunjuk": "Digunakan untuk membersihkan lantai."
+  },
+  {
+    "id": 33,
+    "kata": "Sepatu",
+    "petunjuk": "Dipakai di kaki, melindungi saat berjalan."
+  },
+  {
+    "id": 34,
+    "kata": "Pensil",
+    "petunjuk": "Digunakan untuk menulis, bisa dihapus."
+  },
+  {
+    "id": 35,
+    "kata": "Lampu",
+    "petunjuk": "Memberikan cahaya di malam hari."
+  },
+  {
+    "id": 36,
+    "kata": "Kipas",
+    "petunjuk": "Memberikan angin, digunakan saat panas."
+  },
+  {
+    "id": 37,
+    "kata": "Pintu",
+    "petunjuk": "Penghubung antar ruangan, bisa dibuka dan ditutup."
+  },
+  {
+    "id": 38,
+    "kata": "Jendela",
+    "petunjuk": "Tempat keluar masuk udara dan cahaya."
+  },
+  {
+    "id": 39,
+    "kata": "Topi",
+    "petunjuk": "Dipakai di kepala untuk melindungi dari matahari."
+  },
+  {
+    "id": 40,
+    "kata": "Emas",
+    "petunjuk": "Logam mulia berwarna kuning, sering dijadikan perhiasan."
+  },
+  {
+    "id": 41,
+    "kata": "Laut",
+    "petunjuk": "Tempat yang luas penuh air, habitat ikan."
+  },
+  {
+    "id": 42,
+    "kata": "Kamera",
+    "petunjuk": "Digunakan untuk mengambil foto dan video."
+  },
+  {
+    "id": 43,
+    "kata": "Paku",
+    "petunjuk": "Alat kecil untuk menyambungkan kayu."
+  },
+  {
+    "id": 44,
+    "kata": "Kunci",
+    "petunjuk": "Digunakan untuk membuka pintu yang terkunci."
+  },
+  {
+    "id": 45,
+    "kata": "Kertas",
+    "petunjuk": "Media untuk menulis atau mencetak."
+  },
+  {
+    "id": 46,
+    "kata": "Gelas",
+    "petunjuk": "Wadah untuk minum air."
+  },
+  {
+    "id": 47,
+    "kata": "Kaca",
+    "petunjuk": "Bening dan transparan, sering digunakan pada jendela."
+  },
+  {
+    "id": 48,
+    "kata": "Tenda",
+    "petunjuk": "Tempat berlindung sementara saat berkemah."
+  },
+  {
+    "id": 49,
+    "kata": "Batu",
+    "petunjuk": "Keras dan padat, sering ditemukan di jalan."
+  },
+  {
+    "id": 50,
+    "kata": "Koper",
+    "petunjuk": "Digunakan untuk membawa pakaian saat bepergian."
+  },
+  {
+    "id": 51,
+    "kata": "Payung",
+    "petunjuk": "Melindungi dari hujan dan sinar matahari."
+  },
+  {
+    "id": 52,
+    "kata": "Obat",
+    "petunjuk": "Dikonsumsi untuk menyembuhkan penyakit."
+  },
+  {
+    "id": 53,
+    "kata": "Laptop",
+    "petunjuk": "Komputer portabel yang mudah dibawa ke mana-mana."
+  },
+  {
+    "id": 54,
+    "kata": "Ular",
+    "petunjuk": "Reptil tanpa kaki, beberapa memiliki racun."
+  },
+  {
+    "id": 55,
+    "kata": "Gunung",
+    "petunjuk": "Tempat tinggi, sering didaki oleh pendaki."
+  },
+  {
+    "id": 56,
+    "kata": "Pantai",
+    "petunjuk": "Tempat dengan pasir dan air laut, cocok untuk liburan."
+  },
+  {
+    "id": 57,
+    "kata": "Dompet",
+    "petunjuk": "Wadah kecil untuk menyimpan uang."
+  },
+  {
+    "id": 58,
+    "kata": "Handuk",
+    "petunjuk": "Digunakan untuk mengeringkan tubuh setelah mandi."
+  },
+  {
+    "id": 59,
+    "kata": "Cokelat",
+    "petunjuk": "Manis dan sering dijadikan hadiah."
+  },
+  {
+    "id": 60,
+    "kata": "Ransel",
+    "petunjuk": "Tas yang dipakai di punggung."
+  },
+  {
+    "id": 61,
+    "kata": "Kelinci",
+    "petunjuk": "Hewan berbulu halus, suka wortel."
+  },
+  {
+    "id": 62,
+    "kata": "Kereta",
+    "petunjuk": "Alat transportasi yang berjalan di rel."
+  },
+  {
+    "id": 63,
+    "kata": "Tikus",
+    "petunjuk": "Hewan kecil yang suka mencuri makanan."
+  },
+  {
+    "id": 64,
+    "kata": "Kupu-Kupu",
+    "petunjuk": "Serangga berwarna-warni yang indah."
+  },
+  {
+    "id": 65,
+    "kata": "Pedang",
+    "petunjuk": "Senjata tajam yang panjang."
+  },
+  {
+    "id": 66,
+    "kata": "Gitar",
+    "petunjuk": "Alat musik berdawai, dimainkan dengan jari."
+  },
+  {
+    "id": 67,
+    "kata": "Bintang",
+    "petunjuk": "Bersinar di langit malam."
+  },
+  {
+    "id": 68,
+    "kata": "Sarung",
+    "petunjuk": "Pakaian khas untuk sholat atau bersantai."
+  },
+  {
+    "id": 69,
+    "kata": "Pensil Warna",
+    "petunjuk": "Digunakan untuk menggambar dengan warna."
+  },
+  {
+    "id": 70,
+    "kata": "Kalender",
+    "petunjuk": "Menunjukkan hari, bulan, dan tahun."
+  },
+  {
+    "id": 71,
+    "kata": "Rantai",
+    "petunjuk": "Pengikat yang terbuat dari logam."
+  },
+  {
+    "id": 72,
+    "kata": "Gembok",
+    "petunjuk": "Pengunci tambahan untuk keamanan."
+  },
+  {
+    "id": 73,
+    "kata": "Jam Dinding",
+    "petunjuk": "Menempel di dinding untuk menunjukkan waktu."
+  },
+  {
+    "id": 74,
+    "kata": "Televisi",
+    "petunjuk": "Menampilkan gambar bergerak untuk hiburan."
+  },
+  {
+    "id": 75,
+    "kata": "Sepeda",
+    "petunjuk": "Kendaraan roda dua yang dikayuh."
+  },
+  {
+    "id": 76,
+    "kata": "Sikat Gigi",
+    "petunjuk": "Digunakan untuk membersihkan gigi."
+  },
+  {
+    "id": 77,
+    "kata": "Sabun",
+    "petunjuk": "Digunakan untuk membersihkan tubuh."
+  },
+  {
+    "id": 78,
+    "kata": "Helm",
+    "petunjuk": "Melindungi kepala saat berkendara."
+  },
+  {
+    "id": 79,
+    "kata": "Baju",
+    "petunjuk": "Dipakai di tubuh untuk menutupi badan."
+  },
+  {
+    "id": 80,
+    "kata": "Kacamata",
+    "petunjuk": "Membantu penglihatan atau melindungi dari matahari."
+  },
+  {
+    "id": 81,
+    "kata": "Sendok",
+    "petunjuk": "Digunakan untuk makan sup atau nasi."
+  },
+  {
+    "id": 82,
+    "kata": "Panci",
+    "petunjuk": "Digunakan untuk memasak makanan."
+  },
+  {
+    "id": 83,
+    "kata": "Kendi",
+    "petunjuk": "Wadah untuk menyimpan air minum."
+  },
+  {
+    "id": 84,
+    "kata": "Karpet",
+    "petunjuk": "Dipakai untuk melapisi lantai."
+  },
+  {
+    "id": 85,
+    "kata": "Korek",
+    "petunjuk": "Digunakan untuk menyalakan api."
+  },
+  {
+    "id": 86,
+    "kata": "Bunga",
+    "petunjuk": "Indah dan sering dijadikan hadiah."
+  },
+  {
+    "id": 87,
+    "kata": "Daun",
+    "petunjuk": "Bagian dari pohon yang berwarna hijau."
+  },
+  {
+    "id": 88,
+    "kata": "Tikar",
+    "petunjuk": "Digunakan untuk duduk di lantai."
+  },
+  {
+    "id": 89,
+    "kata": "Kucing",
+    "petunjuk": "Hewan peliharaan berbulu yang suka mengeong."
+  },
+  {
+    "id": 90,
+    "kata": "Matahari",
+    "petunjuk": "Sumber cahaya di siang hari."
+  },
+  {
+    "id": 91,
+    "kata": "Bola Lampu",
+    "petunjuk": "Bulat, memberikan cahaya."
+  },
+  {
+    "id": 92,
+    "kata": "Obeng",
+    "petunjuk": "Digunakan untuk memasang atau melepas sekrup."
+  },
+  {
+    "id": 93,
+    "kata": "Kulkas",
+    "petunjuk": "Tempat menyimpan makanan agar tetap segar."
+  },
+  {
+    "id": 94,
+    "kata": "Roti Bakar",
+    "petunjuk": "Makanan lezat yang dipanggang dengan mentega."
+  },
+  {
+    "id": 95,
+    "kata": "Tisu",
+    "petunjuk": "Digunakan untuk membersihkan atau menyeka."
+  },
+  {
+    "id": 96,
+    "kata": "Sepatu Roda",
+    "petunjuk": "Dipakai di kaki untuk bermain di jalan."
+  },
+  {
+    "id": 97,
+    "kata": "Kipas Angin",
+    "petunjuk": "Memberikan angin di dalam ruangan."
+  },
+  {
+    "id": 98,
+    "kata": "Cangkir",
+    "petunjuk": "Wadah untuk minum teh atau kopi."
+  },
+  {
+    "id": 99,
+    "kata": "Sendal",
+    "petunjuk": "Dipakai di kaki saat santai."
+  },
+  {
+    "id": 100,
+    "kata": "Tali",
+    "petunjuk": "Digunakan untuk mengikat sesuatu."
+  }
+]
