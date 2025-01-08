@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "kata": "Meja",
+    "petunjuk": "Benda datar untuk meletakkan barang."
+  },
+  {
+    "id": 2,
+    "kata": "Jalan",
+    "petunjuk": "Tempat kendaraan melintas."
+  },
+  {
+    "id": 3,
+    "kata": "Nanas",
+    "petunjuk": "Buah berwarna kuning dengan kulit berduri."
+  },
+  {
+    "id": 4,
+    "kata": "Sapu",
+    "petunjuk": "Alat untuk membersihkan lantai."
+  },
+  {
+    "id": 5,
+    "kata": "Pukul",
+    "petunjuk": "Melakukan gerakan memukul."
+  },
+  {
+    "id": 6,
+    "kata": "Lilin",
+    "petunjuk": "Digunakan untuk penerangan saat mati lampu."
+  },
+  {
+    "id": 7,
+    "kata": "Ingat",
+    "petunjuk": "Proses mengenang sesuatu yang sudah terjadi."
+  },
+  {
+    "id": 8,
+    "kata": "Tulis",
+    "petunjuk": "Kegiatan menuangkan ide ke dalam tulisan."
+  },
+  {
+    "id": 9,
+    "kata": "Singa",
+    "petunjuk": "Hewan buas yang dikenal sebagai raja hutan."
+  },
+  {
+    "id": 10,
+    "kata": "Gajah",
+    "petunjuk": "Hewan besar dengan belalai panjang."
+  },
+  {
+    "id": 11,
+    "kata": "Jahat",
+    "petunjuk": "Sikap yang tidak baik kepada orang lain."
+  },
+  {
+    "id": 12,
+    "kata": "Hati",
+    "petunjuk": "Bagian tubuh yang memompa darah."
+  },
+  {
+    "id": 13,
+    "kata": "Tiket",
+    "petunjuk": "Dokumen kecil untuk masuk ke tempat tertentu."
+  },
+  {
+    "id": 14,
+    "kata": "Kertas",
+    "petunjuk": "Digunakan untuk menulis atau mencetak."
+  },
+  {
+    "id": 15,
+    "kata": "Tas",
+    "petunjuk": "Tempat menyimpan barang saat bepergian."
+  },
+  {
+    "id": 16,
+    "kata": "Buku",
+    "petunjuk": "Kumpulan kertas berisi tulisan atau cerita."
+  },
+  {
+    "id": 17,
+    "kata": "Pohon",
+    "petunjuk": "Tumbuhan besar yang memberikan oksigen."
+  },
+  {
+    "id": 18,
+    "kata": "Nasi",
+    "petunjuk": "Makanan pokok orang Indonesia."
+  },
+  {
+    "id": 19,
+    "kata": "Ikan",
+    "petunjuk": "Hewan yang hidup di air."
+  },
+  {
+    "id": 20,
+    "kata": "Kapal",
+    "petunjuk": "Alat transportasi yang berlayar di laut."
+  },
+  {
+    "id": 21,
+    "kata": "Langit",
+    "petunjuk": "Terlihat biru saat siang dan gelap saat malam."
+  },
+  {
+    "id": 22,
+    "kata": "Tangan",
+    "petunjuk": "Bagian tubuh untuk memegang sesuatu."
+  },
+  {
+    "id": 23,
+    "kata": "Napas",
+    "petunjuk": "Proses menghirup udara untuk hidup."
+  },
+  {
+    "id": 24,
+    "kata": "Sepatu",
+    "petunjuk": "Dipakai di kaki saat bepergian."
+  },
+  {
+    "id": 25,
+    "kata": "Pisau",
+    "petunjuk": "Alat tajam untuk memotong sesuatu."
+  },
+  {
+    "id": 26,
+    "kata": "Ular",
+    "petunjuk": "Hewan melata yang kadang berbisa."
+  },
+  {
+    "id": 27,
+    "kata": "Rumah",
+    "petunjuk": "Tempat tinggal manusia."
+  },
+  {
+    "id": 28,
+    "kata": "Hujan",
+    "petunjuk": "Air yang turun dari langit."
+  },
+  {
+    "id": 29,
+    "kata": "Nasi",
+    "petunjuk": "Makanan pokok berbentuk butiran putih."
+  },
+  {
+    "id": 30,
+    "kata": "Kunci",
+    "petunjuk": "Digunakan untuk membuka pintu."
+  },
+  {
+    "id": 31,
+    "kata": "Cincin",
+    "petunjuk": "Aksesoris yang dipakai di jari."
+  },
+  {
+    "id": 32,
+    "kata": "Induk",
+    "petunjuk": "Sebutan untuk orang tua hewan."
+  },
+  {
+    "id": 33,
+    "kata": "Kopi",
+    "petunjuk": "Minuman hitam yang sering diminum pagi hari."
+  },
+  {
+    "id": 34,
+    "kata": "Kertas",
+    "petunjuk": "Tempat untuk menulis atau mencetak."
+  },
+  {
+    "id": 35,
+    "kata": "Susu",
+    "petunjuk": "Minuman putih yang berasal dari sapi."
+  },
+  {
+    "id": 36,
+    "kata": "Surat",
+    "petunjuk": "Pesan tertulis yang dikirimkan kepada seseorang."
+  },
+  {
+    "id": 37,
+    "kata": "Tanah",
+    "petunjuk": "Permukaan bumi tempat kita berpijak."
+  },
+  {
+    "id": 38,
+    "kata": "Harimau",
+    "petunjuk": "Hewan buas berwarna oranye dan hitam."
+  },
+  {
+    "id": 39,
+    "kata": "Ubi",
+    "petunjuk": "Makanan yang tumbuh di dalam tanah."
+  },
+  {
+    "id": 40,
+    "kata": "Bis",
+    "petunjuk": "Alat transportasi umum beroda besar."
+  },
+  {
+    "id": 41,
+    "kata": "Sarung",
+    "petunjuk": "Pakaian yang digunakan untuk ibadah."
+  },
+  {
+    "id": 42,
+    "kata": "Gigi",
+    "petunjuk": "Bagian tubuh yang digunakan untuk mengunyah."
+  },
+  {
+    "id": 43,
+    "kata": "Ibu",
+    "petunjuk": "Orang tua perempuan dalam keluarga."
+  },
+  {
+    "id": 44,
+    "kata": "Buah",
+    "petunjuk": "Makanan alami dari tanaman."
+  },
+  {
+    "id": 45,
+    "kata": "Hutan",
+    "petunjuk": "Kumpulan pohon besar tempat hewan hidup."
+  },
+  {
+    "id": 46,
+    "kata": "Nenek",
+    "petunjuk": "Orang tua dari ibu atau ayah."
+  },
+  {
+    "id": 47,
+    "kata": "Kursi",
+    "petunjuk": "Tempat duduk yang memiliki sandaran."
+  },
+  {
+    "id": 48,
+    "kata": "Ikan",
+    "petunjuk": "Hidup di air dan bernapas dengan insang."
+  },
+  {
+    "id": 49,
+    "kata": "Nasi",
+    "petunjuk": "Makanan pokok dari beras."
+  },
+  {
+    "id": 50,
+    "kata": "Bulan",
+    "petunjuk": "Benda langit yang terlihat pada malam hari."
+  }
+]
