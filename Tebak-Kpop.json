@@ -1,0 +1,252 @@
+[
+  {
+    "id": 1,
+    "kata": "NewJeans",
+    "petunjuk": "Girl group yang terkenal dengan lagu 'ETA' dan 'OMG'."
+  },
+  {
+    "id": 2,
+    "kata": "Jungkook",
+    "petunjuk": "Main vocalist BTS yang merilis lagu solo 'Seven'."
+  },
+  {
+    "id": 3,
+    "kata": "Stray Kids",
+    "petunjuk": "Boy group dengan lagu hits 'S-Class'."
+  },
+  {
+    "id": 4,
+    "kata": "IVE",
+    "petunjuk": "Girl group yang meraih popularitas dengan 'Love Dive'."
+  },
+  {
+    "id": 5,
+    "kata": "Jisoo",
+    "petunjuk": "Member BLACKPINK yang debut solo dengan lagu 'Flower'."
+  },
+  {
+    "id": 6,
+    "kata": "ZEROBASEONE",
+    "petunjuk": "Boy group jebolan acara survival 'Boys Planet'."
+  },
+  {
+    "id": 7,
+    "kata": "SEVENTEEN",
+    "petunjuk": "Boy group dengan lagu terkenal 'Super'."
+  },
+  {
+    "id": 8,
+    "kata": "TWICE",
+    "petunjuk": "Girl group dengan lagu hits 'SET ME FREE'."
+  },
+  {
+    "id": 9,
+    "kata": "aespa",
+    "petunjuk": "Girl group dengan konsep AI, terkenal dengan lagu 'Spicy'."
+  },
+  {
+    "id": 10,
+    "kata": "TXT",
+    "petunjuk": "Boy group dengan lagu 'Sugar Rush Ride'."
+  },
+  {
+    "id": 11,
+    "kata": "LE SSERAFIM",
+    "petunjuk": "Girl group dengan lagu 'UNFORGIVEN'."
+  },
+  {
+    "id": 12,
+    "kata": "G-Dragon",
+    "petunjuk": "Leader BIGBANG yang juga dikenal sebagai King of K-Pop."
+  },
+  {
+    "id": 13,
+    "kata": "IVE - After Like",
+    "petunjuk": "Lagu yang memadukan nuansa retro dengan modern."
+  },
+  {
+    "id": 14,
+    "kata": "BTS - Run BTS",
+    "petunjuk": "Lagu energik dari album 'Proof'."
+  },
+  {
+    "id": 15,
+    "kata": "BLACKPINK - Born Pink Tour",
+    "petunjuk": "Tur dunia girl group yang dimulai tahun 2022."
+  },
+  {
+    "id": 16,
+    "kata": "Suga - D-DAY Tour",
+    "petunjuk": "Tur solo rapper BTS dengan album 'D-DAY'."
+  },
+  {
+    "id": 17,
+    "kata": "TREASURE",
+    "petunjuk": "Boy group YG Entertainment dengan lagu 'HELLO'."
+  },
+  {
+    "id": 18,
+    "kata": "NMIXX",
+    "petunjuk": "Girl group yang dikenal dengan konsep 'MIXXPOP'."
+  },
+  {
+    "id": 19,
+    "kata": "EXO - Cream Soda",
+    "petunjuk": "Lagu comeback dari album 'EXIST'."
+  },
+  {
+    "id": 20,
+    "kata": "Kim Taehyung",
+    "petunjuk": "Member BTS yang merilis lagu solo 'Slow Dancing'."
+  },
+  {
+    "id": 21,
+    "kata": "ENHYPEN",
+    "petunjuk": "Boy group yang memulai tur dunia 'FATE'."
+  },
+  {
+    "id": 22,
+    "kata": "Super Junior",
+    "petunjuk": "Boy group generasi kedua dengan lagu hits 'Mango'."
+  },
+  {
+    "id": 23,
+    "kata": "ITZY",
+    "petunjuk": "Girl group dengan lagu 'Cake' dari album 'Kill My Doubt'."
+  },
+  {
+    "id": 24,
+    "kata": "Kai",
+    "petunjuk": "Member EXO dengan album solo 'Rover'."
+  },
+  {
+    "id": 25,
+    "kata": "IU",
+    "petunjuk": "Solois terkenal dengan lagu 'Strawberry Moon'."
+  },
+  {
+    "id": 26,
+    "kata": "Taemin",
+    "petunjuk": "Member SHINee yang dikenal dengan lagu 'Advice'."
+  },
+  {
+    "id": 27,
+    "kata": "Mamamoo+",
+    "petunjuk": "Unit dari Mamamoo yang debut dengan 'GGBB'."
+  },
+  {
+    "id": 28,
+    "kata": "Dreamcatcher",
+    "petunjuk": "Girl group dengan konsep dark dan lagu 'BONVOYAGE'."
+  },
+  {
+    "id": 29,
+    "kata": "Seventeen - FML",
+    "petunjuk": "Lagu motivasi dengan koreografi energik."
+  },
+  {
+    "id": 30,
+    "kata": "IVE - Off The Record",
+    "petunjuk": "Lagu tentang perasaan rahasia."
+  },
+  {
+    "id": 31,
+    "kata": "Jungkook - Standing Next to You",
+    "petunjuk": "Lagu pop solo terbaru 2024."
+  },
+  {
+    "id": 32,
+    "kata": "ZB1 - In Bloom",
+    "petunjuk": "Lagu debut penuh emosi dari ZEROBASEONE."
+  },
+  {
+    "id": 33,
+    "kata": "Kep1er",
+    "petunjuk": "Girl group jebolan *Girls Planet 999* dengan lagu 'Back to the City'."
+  },
+  {
+    "id": 34,
+    "kata": "BTS - Dynamite",
+    "petunjuk": "Lagu berbahasa Inggris pertama mereka."
+  },
+  {
+    "id": 35,
+    "kata": "EXO - Don't Fight The Feeling",
+    "petunjuk": "Lagu optimis dari album spesial."
+  },
+  {
+    "id": 36,
+    "kata": "NCT - Golden Age",
+    "petunjuk": "Kolaborasi all-unit NCT dalam lagu penuh harmoni."
+  },
+  {
+    "id": 37,
+    "kata": "Red Velvet - Birthday",
+    "petunjuk": "Lagu yang penuh warna dan keceriaan."
+  },
+  {
+    "id": 38,
+    "kata": "TWICE - Moonlight Sunrise",
+    "petunjuk": "Lagu pra-rilis berbahasa Inggris."
+  },
+  {
+    "id": 39,
+    "kata": "LE SSERAFIM - ANTIFRAGILE",
+    "petunjuk": "Lagu tentang menjadi kuat setelah rintangan."
+  },
+  {
+    "id": 40,
+    "kata": "ATEEZ",
+    "petunjuk": "Boy group yang terkenal dengan penampilan energik."
+  },
+  {
+    "id": 41,
+    "kata": "NCT 127",
+    "petunjuk": "Unit NCT dengan lagu 'Fact Check'."
+  },
+  {
+    "id": 42,
+    "kata": "aespa - My World",
+    "petunjuk": "Album terbaru dengan nuansa ceria."
+  },
+  {
+    "id": 43,
+    "kata": "GOT7",
+    "petunjuk": "Boy group yang merilis lagu 'NANANA'."
+  },
+  {
+    "id": 44,
+    "kata": "BLACKPINK - DDU-DU DDU-DU",
+    "petunjuk": "Lagu dengan koreografi ikonik."
+  },
+  {
+    "id": 45,
+    "kata": "BTS - Yet to Come",
+    "petunjuk": "Lagu penuh harapan untuk masa depan."
+  },
+  {
+    "id": 46,
+    "kata": "IU & Suga - Eight",
+    "petunjuk": "Kolaborasi epik dengan melodi emosional."
+  },
+  {
+    "id": 47,
+    "kata": "WINNER",
+    "petunjuk": "Boy group YG Entertainment dengan lagu 'I LOVE U'."
+  },
+  {
+    "id": 48,
+    "kata": "SHINee - Hard",
+    "petunjuk": "Lagu comeback dengan gaya unik."
+  },
+  {
+    "id": 49,
+    "kata": "MONSTA X",
+    "petunjuk": "Boy group yang merilis lagu 'Beautiful Liar'."
+  },
+  {
+    "id": 50,
+    "kata": "BTOB",
+    "petunjuk": "Boy group dengan vokal kuat, terkenal dengan lagu ballad."
+  }
+]
